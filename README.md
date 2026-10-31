@@ -8,7 +8,7 @@ This repository contains links to two repositories that collectively cover all t
 
 ### 1. Portfolio Frontend — React
 
-**Repository:** [Portfolio Frontend Repository]([YOUR_REPO_1_LINK](https://github.com/smitgoyani123/AWDF.git))
+**Repository:** [Portfolio Frontend Repository](https://github.com/smitgoyani123/AWDF.git)
 
 This repository contains practical implementations related to **React.js and frontend web development**, including portfolio website development.
 
